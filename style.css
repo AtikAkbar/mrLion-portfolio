@@ -9,16 +9,13 @@ body{
     padding-bottom: 150px;
 }
 .half-a-section{
-    width: 50%;
-    
+    width: 50%;   
 }
 .image{
-    
     width: 80%;
     padding: 0 5%;
 }
 .text-part{
-    
     padding: 0 5%;
     text-align: justify;
     width: 40%;
@@ -41,19 +38,15 @@ a{
 }
 .hire-me{
     margin: 10px 0;
-    
 }
 .second-section{
     display: flex;
     background-image: url(images/dream-bg.png);
     background-position: right;
     background-repeat: no-repeat;
-    
-
 }
 .third-section{
-     padding-bottom: 150px;
-    
+     padding-bottom: 150px; 
 }
 .pt3-header{
     padding: 0 5%; 
